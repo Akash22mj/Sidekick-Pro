@@ -1,0 +1,14 @@
+gradio
+langgraph
+langchain
+langchain-openai
+langchain-community
+langchain-core
+playwright
+lxml
+beautifulsoup4
+wikipedia
+arxiv
+python-dotenv
+duckduckgo-search
+markdown
