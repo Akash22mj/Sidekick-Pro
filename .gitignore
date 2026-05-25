@@ -22,3 +22,5 @@ sandbox/
 # Ignore accidental OS files
 .DS_Store
 Thumbs.db
+
+community_contributions/
